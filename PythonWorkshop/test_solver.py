@@ -9,7 +9,9 @@ class MyTestCase(unittest.TestCase):
         s = Solver()
 
         self.assertRaises(Exception)
-
+ 
+ 
+ 
 if __name__ == '__main__':
     unittest.main()
 
